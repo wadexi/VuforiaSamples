@@ -1,0 +1,4 @@
+#Tue Feb 27 11:14:34 CST 2018
+base.0=C\:\\Users\\admin\\Desktop\\vofuria\\VuforiaSamples-7-0-47\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

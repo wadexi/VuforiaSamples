@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\vofuria\VuforiaSamples-7-0-47\build\java\vuforia\Vuforia.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c2d012b27a87c8553c6f979a57201bc148f0f251">
+        <dex dex="C:\Users\admin\Desktop\vofuria\VuforiaSamples-7-0-47\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>
